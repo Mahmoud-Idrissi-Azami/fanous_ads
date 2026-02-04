@@ -1,0 +1,40 @@
+Politique de Confidentialité (Privacy Policy)
+Dernière mise à jour : 04 Février 2026
+
+L'application "Fanous" est une application gratuite développée par IDRISSI AZAMI Mahmoud. Ce service est fourni gratuitement et est destiné à être utilisé tel quel.
+
+Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation de renseignements personnels si quelqu'un décide d'utiliser notre Service.
+
+1. Collecte et utilisation des informations
+Pour une meilleure expérience lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables. Les informations que nous demandons seront conservées sur votre appareil et ne sont pas collectées par nous de manière directe, mais peuvent être collectées par des services tiers utilisés par l'Application.
+
+L'Application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier. Voici les liens vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'Application :
+
+* Services Google Play
+* AdMob (Google)
+
+2. Données Publicitaires (AdMob)
+Nous utilisons Google AdMob pour afficher des publicités dans notre application. Google AdMob peut utiliser l'identifiant publicitaire de votre appareil (Android Advertising ID) pour vous proposer des publicités personnalisées en fonction de vos centres d'intérêt.
+Les types de données collectées peuvent inclure :
+* Identifiants de l'appareil (Device IDs)
+* Localisation approximative (non précise)
+* Données d'interaction avec les publicités (clics, impressions)
+
+3. Données de journal (Log Data)
+Nous tenons à vous informer que chaque fois que vous utilisez notre Service, en cas d'erreur dans l'application, nous collectons des données et des informations (via des produits tiers) sur votre téléphone appelées Log Data. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de notre service, l'heure et la date de votre utilisation du service et d'autres statistiques.
+
+4. Sécurité
+Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique n'est sûre et fiable à 100%, et nous ne pouvons garantir sa sécurité absolue.
+
+5. Liens vers d'autres sites
+Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons vivement de consulter la politique de confidentialité de ces sites web. Nous n'avons aucun contrôle et n'assumons aucune responsabilité pour le contenu, les politiques de confidentialité ou les pratiques de tout site ou service tiers.
+
+6. Confidentialité des enfants
+Ces services ne s'adressent pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables auprès d'enfants de moins de 13 ans.
+
+7. Modifications de cette politique de confidentialité
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page.
+
+8. Nous contacter
+Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter à :
+fanousapplication@gmail.com
